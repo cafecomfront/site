@@ -1,0 +1,9 @@
+{
+  "name": "Café com Front",
+  "short_name": "Café com Front",
+  "start_url": "/",
+  "background_color": "#FFF",
+  "theme_color": "#8D654E",
+  "display": "minimal-ui",
+  "icon": "static/favicon.ico"
+}

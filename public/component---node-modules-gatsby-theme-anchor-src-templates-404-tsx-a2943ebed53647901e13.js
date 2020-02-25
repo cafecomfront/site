@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[3],{Dce8:function(t,n,a){"use strict";a.r(n);a("q1tI");var c=a("c3WJ"),i=a("CYJN"),e=a("Wbzz"),s=a("qKvR"),o={src:"img/missing.svg",alt:"Missing"};n.default=function(){return Object(s.a)(c.a,null,Object(s.a)(i.a,{image:o},"I think you are lost 🤔",Object(s.a)("br",null),Object(s.a)(e.Link,{to:"/"},"Go back to 🏚")))}}}]);
+//# sourceMappingURL=component---node-modules-gatsby-theme-anchor-src-templates-404-tsx-a2943ebed53647901e13.js.map
